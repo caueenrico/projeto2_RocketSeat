@@ -1,0 +1,4 @@
+
+type Props = {
+  message: stro
+}
